@@ -141,9 +141,13 @@ and help optimize:
 ## 👩‍💻 Author
 
 Sanika Gadhave
+
 Aditi Joshi
+
 Indrayani Mude
+
 Krish P. Gokhale
+
 Zubiya Khan
 
 ---
