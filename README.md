@@ -166,8 +166,7 @@ The model behavior remains valid; warnings are due to unit strictness in Vensim.
 
 ## 🏆 Achievement
 
-🏅 **Awarded "Top Performer"** for outstanding modeling and presentation  
-among 50 participants, evaluated by **TCS experts** at ACM Winter School 2025.
+🏅 **Awarded "Top Performer"** for outstanding modeling and presentation among 50 participants, evaluated by **TCS experts** at ACM Winter School 2025.
 
 ---
 
